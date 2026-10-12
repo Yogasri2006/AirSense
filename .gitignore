@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+model/*.pkl
+model/*.json
+data/*.csv
+outputs/*.csv
+outputs/plots/*
