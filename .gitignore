@@ -6,3 +6,4 @@ model/*.json
 data/*.csv
 outputs/*.csv
 outputs/plots/*
+model/*.pkl
